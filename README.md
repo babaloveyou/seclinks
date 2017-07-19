@@ -1,6 +1,6 @@
 # seclinks
 Collection of my various security/penetration testing resources
 
-SQL Injection:
-    MySQL universal SQLi payload:
-https://labs.detectify.com/2013/05/29/the-ultimate-sql-injection-payload/
+SQL Injection:  
+    MySQL universal SQLi payload:  
+    https://labs.detectify.com/2013/05/29/the-ultimate-sql-injection-payload/
